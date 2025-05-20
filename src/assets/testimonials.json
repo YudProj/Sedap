@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Agus Santoso",
+    "review": "Pelayanan sangat ramah dan hasil potongannya memuaskan!",
+    "photo": "/images/agus.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Rina Maharani",
+    "review": "Tempatnya nyaman, sangat direkomendasikan.",
+    "photo": "/images/rina.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dewi Kartika",
+    "review": "Barbernya profesional dan cepat.",
+    "photo": "/images/dewi.jpg"
+  }
+]

@@ -1,0 +1,34 @@
+[
+    {
+      "member_id": "ORD001",
+      "nama": "Ahmad Ramadhan",
+      "email": "ahmad21@gmail.com",
+      "tipe_member": "Silver"
+    },
+    {
+       "member_id": "ORD002",
+      "nama": "Yudha",
+      "email": "yudha@gmail.com",
+      "tipe_member": "Gold" 
+    },
+    {
+        "member_id": "ORD003",
+       "nama": "Iqbal",
+       "email": "iqbal21@gmail.com",
+       "tipe_member": "Platinum" 
+     },
+     {
+        "member_id": "ORD004",
+       "nama": "Alam",
+       "email": "Alam21@gmail.com",
+       "tipe_member": "Silver" 
+     },
+     {
+        "member_id": "ORD005",
+       "nama": "gilang",
+       "email": "gilang21@gmail.com",
+       "tipe_member": "Silver" 
+     }
+
+  ]
+  

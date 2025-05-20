@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Kennington Lane Cafe",
+    "description": "Non enim praesent elementum facilisis leo vel fringilla...",
+    "categories": ["american", "steakhouse", "seafood"],
+    "image": "https://bslthemes.com/html/quickeat/assets/img/logos-2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "The Wilmington",
+    "description": "Vulputate enim nulla aliquet porttitor lacus luctus...",
+    "categories": ["american", "steakhouse", "seafood"],
+    "image": "https://bslthemes.com/html/quickeat/assets/img/logos-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Kings Arms",
+    "description": "Tortor at risus viverra adipiscing at in tellus...",
+    "categories": ["healthy", "steakhouse", "vegetarian"],
+    "image": "https://bslthemes.com/html/quickeat/assets/img/logos-2.jpg"
+  }
+]

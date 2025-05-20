@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "We Are Award-Winning Team",
+    "description": "Penghargaan diberikan karena kualitas layanan kami yang konsisten dan berorientasi pada kepuasan pelanggan.",
+    "image": "https://bslthemes.com/html/quickeat/assets/img/photo-8.jpg",
+    "tags": ["team", "awards"]
+  },
+  {
+    "id": 2,
+    "title": "Over 10 Years Experience in F&B",
+    "description": "Kami telah melayani ribuan pelanggan selama lebih dari satu dekade dengan layanan terbaik.",
+    "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=600&q=80",
+    "tags": ["experience", "restaurant"]
+  },
+  {
+    "id": 3,
+    "title": "Professional & Friendly Staff",
+    "description": "Tim kami dilatih secara profesional dan selalu ramah dalam melayani pelanggan.",
+    "image": "https://images.unsplash.com/photo-1554284126-aa88f22d8b74?auto=format&fit=crop&w=600&q=80",
+    "tags": ["service", "staff"]
+  },
+  {
+    "id": 4,
+    "title": "Fresh & Locally Sourced Ingredients",
+    "description": "Kami hanya menggunakan bahan-bahan segar dari petani lokal untuk memastikan kualitas.",
+    "image": "https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38?auto=format&fit=crop&w=600&q=80",
+    "tags": ["fresh", "local"]
+  }
+]
