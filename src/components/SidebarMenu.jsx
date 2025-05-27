@@ -1,5 +1,7 @@
 import { AiOutlineUserAdd } from "react-icons/ai"; 
 import { BiMessageAltError } from "react-icons/bi"; 
+import { MdFastfood } from "react-icons/md";
+
 // src/components/SidebarMenu.jsx
 import {
   MdOutlineDashboardCustomize,
@@ -43,6 +45,18 @@ export default function SidebarMenu() {
           </NavLink>
         </li>
 
+         <li>
+    <NavLink
+            id="menu-4"
+            to="/products"
+            className={menuClass}
+        >
+            <MdFastfood className="mr-4 text-xl" />
+            Products
+    </NavLink>
+</li>
+
+
         <li>
           <NavLink id="menu-5" to="/400" className={menuClass}>
           <BiMessageAltError  className="mr-4 text-xl text-red-500" />{" "}
@@ -63,7 +77,8 @@ export default function SidebarMenu() {
             Error 403
           </NavLink>
         </li>
-
+        
+       
        
 
 

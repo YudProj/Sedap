@@ -3,6 +3,8 @@ import "./assets/tailwind.css";
 import { Route, Routes } from "react-router-dom";
 import Loading from "./components/Loading";
 import GuestLayouts from "./layouts/GuestLayouts";
+import Products from "./pages/Products";
+
 // import Navbar from "./guest/Navbar";
 
 // import Sidebar from "./components/Sidebar";
@@ -33,6 +35,8 @@ const Register = React.lazy(() => import("./pages/auth/Register"))
 const Forgot = React.lazy(() => import("./pages/auth/Forgot"))
 const Users = React.lazy(() => import("./pages/Users"));
 const Guest = React.lazy(() => import("./pages/GuestPage"));
+const Product = React.lazy(() => import("./pages/Products"));
+const ProductDetail = React.lazy(() => import("./pages/ProductDetail"))
 // const guest = React.lazy(() => import("./Guest/Navbar/"));
 
 
@@ -63,6 +67,9 @@ function App() {
                 <Route path="/orders" element={<Orders />} />
                 <Route path="/customers" element={<Customers />} />
                 <Route path="/users" element={<Users />} />
+                <Route path="/products" element={<Products />} />
+                <Route path="/products/:id" element={<ProductDetail />} /> 
+
           </Route>
                 
                  <Route element={<GuestLayouts />} >
